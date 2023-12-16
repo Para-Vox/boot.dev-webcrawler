@@ -1,0 +1,76 @@
+
+> webcrawler@1.0.0 start
+> node main.js https://wagslane.dev
+
+Starting webcrawl at: https://wagslane.dev
+Crawling: https://wagslane.dev/
+Crawling: https://wagslane.dev/tags/
+Crawling: https://wagslane.dev/about/
+Crawling: https://wagslane.dev/index.xml
+application/xml content-type returned
+Crawling: https://wagslane.dev/tags/business/
+Crawling: https://wagslane.dev/posts/dark-patterns/
+Crawling: https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/
+Crawling: https://wagslane.dev/tags/clean-code/
+Crawling: https://wagslane.dev/posts/zen-of-proverbs/
+Crawling: https://wagslane.dev/posts/func-y-json-api/
+Crawling: https://wagslane.dev/posts/keep-your-data-raw-at-rest/
+Crawling: https://wagslane.dev/posts/continuous-deployments-arent-continuous-disruptions/
+Crawling: https://wagslane.dev/posts/optimize-for-simplicit-first/
+Crawling: https://wagslane.dev/tags/devops/
+Crawling: https://wagslane.dev/posts/no-one-does-devops/
+Crawling: https://wagslane.dev/posts/continuous-deployments-arent-continuous-disruptions
+Crawling: https://wagslane.dev/posts/leave-scrum-to-rugby
+Crawling: https://wagslane.dev/posts/managers-that-cant-code/
+Crawling: https://wagslane.dev/posts/kanban-vs-scrum/
+Crawling: https://wagslane.dev/posts/kanban-vs-scrum
+Crawling: https://wagslane.dev/tags/education/
+Crawling: https://wagslane.dev/posts/college-a-solution-in-search-of-a-problem/
+Crawling: https://wagslane.dev/tags/golang/
+Crawling: https://wagslane.dev/posts/guard-keyword-error-handling-golang/
+Crawling: https://wagslane.dev/posts/gos-major-version-handling/
+Crawling: https://wagslane.dev/posts/go-struct-ordering/
+Crawling: https://wagslane.dev/tags/management/
+Crawling: https://wagslane.dev/posts/leave-scrum-to-rugby/
+Crawling: https://wagslane.dev/tags/philosophy/
+Crawling: https://wagslane.dev/posts/what-a-crazy-religion/
+Crawling: https://wagslane.dev/posts/a-case-against-a-case-for-the-book-of-mormon/
+Crawling: https://wagslane.dev/tags/writing/
+Crawling: https://wagslane.dev/posts/seo-is-a-scam-job/
+Crawling: https://wagslane.dev/posts/collapsing-quality-of-devto/
+Crawling: https://wagslane.dev/posts/developers-learn-to-say-no/
+URL: https://wagslane.dev/ had 68 links.
+URL: https://wagslane.dev/tags/ had 68 links.
+URL: https://wagslane.dev/about/ had 68 links.
+URL: https://wagslane.dev/index.xml had 68 links.
+URL: https://wagslane.dev/tags/business/ had 1 links.
+URL: https://wagslane.dev/posts/dark-patterns/ had 2 links.
+URL: https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/ had 2 links.
+URL: https://wagslane.dev/tags/clean-code/ had 1 links.
+URL: https://wagslane.dev/posts/zen-of-proverbs/ had 2 links.
+URL: https://wagslane.dev/posts/func-y-json-api/ had 2 links.
+URL: https://wagslane.dev/posts/keep-your-data-raw-at-rest/ had 2 links.
+URL: https://wagslane.dev/posts/continuous-deployments-arent-continuous-disruptions/ had 2 links.
+URL: https://wagslane.dev/posts/optimize-for-simplicit-first/ had 2 links.
+URL: https://wagslane.dev/tags/devops/ had 1 links.
+URL: https://wagslane.dev/posts/no-one-does-devops/ had 2 links.
+URL: https://wagslane.dev/posts/continuous-deployments-arent-continuous-disruptions had 1 links.
+URL: https://wagslane.dev/posts/leave-scrum-to-rugby had 5 links.
+URL: https://wagslane.dev/posts/managers-that-cant-code/ had 6 links.
+URL: https://wagslane.dev/posts/kanban-vs-scrum/ had 4 links.
+URL: https://wagslane.dev/posts/kanban-vs-scrum had 1 links.
+URL: https://wagslane.dev/tags/education/ had 1 links.
+URL: https://wagslane.dev/posts/college-a-solution-in-search-of-a-problem/ had 2 links.
+URL: https://wagslane.dev/tags/golang/ had 1 links.
+URL: https://wagslane.dev/posts/guard-keyword-error-handling-golang/ had 2 links.
+URL: https://wagslane.dev/posts/gos-major-version-handling/ had 2 links.
+URL: https://wagslane.dev/posts/go-struct-ordering/ had 2 links.
+URL: https://wagslane.dev/tags/management/ had 1 links.
+URL: https://wagslane.dev/posts/leave-scrum-to-rugby/ had 2 links.
+URL: https://wagslane.dev/tags/philosophy/ had 1 links.
+URL: https://wagslane.dev/posts/what-a-crazy-religion/ had 2 links.
+URL: https://wagslane.dev/posts/a-case-against-a-case-for-the-book-of-mormon/ had 2 links.
+URL: https://wagslane.dev/tags/writing/ had 1 links.
+URL: https://wagslane.dev/posts/seo-is-a-scam-job/ had 2 links.
+URL: https://wagslane.dev/posts/collapsing-quality-of-devto/ had 2 links.
+URL: https://wagslane.dev/posts/developers-learn-to-say-no/ had 1 links.
